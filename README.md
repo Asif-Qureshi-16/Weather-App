@@ -28,5 +28,5 @@ Before you begin, make sure you have the following installed on your local machi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/weather-app-react.git
+   git clone [https://github.com/your-username/weather-app-react.git](https://github.com/Asif-Qureshi-16/Weather-App)
    cd weather-app-react
